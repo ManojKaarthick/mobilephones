@@ -1,4 +1,4 @@
-var emss = "manoj";
+var emss = "manoj kaarthick";
 var dept = "IT";
 console.log(emss);
 console.log(dept);
